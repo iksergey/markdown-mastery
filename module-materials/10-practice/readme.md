@@ -1,0 +1,34 @@
+# 10-practice
+
+### Ожидаемый результат
+![](./10-practice.png)
+
+### Содержимое файла
+[10-practice.txt](./10-practice.txt)
+
+```
+Альфа \alpha α
+Бета \beta β
+Гамма \gamma γ
+Дельта \delta δ
+Эпсилон \epsilon ε
+Дзета \zeta ζ
+Эта \eta η
+Тета \theta θ
+Иота \iota ι
+Каппа \kappa κ
+Лямбда \lambda λ
+Мю \mu μ
+Ню \nu ν
+Кси \xi ξ
+Омикрон \omicron ο
+Пи \pi π
+Ро \rho ρ
+Сигма \sigma σ
+Тау \tau τ
+Ипсилон \upsilon υ
+Фи \phi φ
+Хи \chi χ
+Пси \psi ψ
+Омега \omega ω
+```
